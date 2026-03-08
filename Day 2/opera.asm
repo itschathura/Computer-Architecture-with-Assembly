@@ -5,7 +5,7 @@
 n1 db 4
 n2 db 2
 
-msg1 db "Addition n1$ is : $"
+msg1 db "Addition is : $"
 msg2 db 13,10,"Subtraction is : $"
 msg3 db 13,10,"Multiplication is : $"
 msg4 db 13,10,"Division is : $"
